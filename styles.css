@@ -3,8 +3,7 @@
 }
 
 .instructions {
-    padding-top: 40vh;
-    text-align: center;
     font-weight: 500;
     line-height: 5vw;
+    padding: 20px;
 }
